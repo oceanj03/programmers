@@ -10,5 +10,3 @@ function solution(numbers) {
 
   return answer.sort((a, b) => a - b);
 }
-
-solution([2, 1, 3, 4, 1]);
